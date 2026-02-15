@@ -1,11 +1,11 @@
-ㅤ[
-ㅤㅤ{
-ㅤㅤㅤ "version-minecraft": "1.21.1",
-ㅤㅤ ㅤ"new-version-minecraft": false,
-ㅤㅤㅤ "line-text-1": "hi",
-ㅤㅤ ㅤ "line-text-2": "test",
-ㅤㅤㅤ "version": "1.0.1",
-ㅤㅤ ㅤ "download": "https://your-site.com/download",
-ㅤㅤㅤ "changelog": "Bug fixes and improvements"
-ㅤㅤ},
-ㅤ]
+[
+  {
+    "version-minecraft": "1.21.1",
+    "new-version-minecraft": false,
+    "line-text-1": "hi",
+    "line-text-2": "test",
+    "version": "1.0.1",
+    "download": "https://your-site.com/download",
+    "changelog": "Bug fixes and improvements"
+  }
+]
