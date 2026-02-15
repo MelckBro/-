@@ -1,20 +1,11 @@
   [
-    {
-      "version-minecraft": "1.21.8",
-      "new-version-minecraft": false,
-      "line-text-1": "hi",
-      "line-text-2": "test",
-      "version": "1.0.0",
-      "download": "https://your-site.com/download",
-      "changelog": "Bug fixes and improvements"
-    },
-    {
-      "version-minecraft": "1.21.8",
-      "new-version-minecraft": false,
-      "line-text-1": "hi",
-      "line-text-2": "test",
-      "version": "1.0.1",
-      "download": "https://your-site.com/download",
-      "changelog": "Bug fixes and improvements"
-    }
+  ㅤ{
+  ㅤㅤ "version-minecraft": "1.21.8",
+  ㅤ ㅤ"new-version-minecraft": false,
+  ㅤㅤ "line-text-1": "",
+  ㅤ ㅤ "line-text-2": "",
+  ㅤㅤ "version": "1.0.1",
+  ㅤ ㅤ "download": "https://your-site.com/download",
+  ㅤㅤ "changelog": "Bug fixes and improvements"
+  ㅤ},
   ]
