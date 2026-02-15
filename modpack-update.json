@@ -8,4 +8,13 @@
     "download": "https://your-site.com/download",
     "changelog": "Bug fixes and improvements"
   },
+  {
+    "version-minecraft": "1.21.1",
+    "new-version-minecraft": false,
+    "line-text-1": "hai",
+    "line-text-2": "tdest",
+    "version": "1.0.2",
+    "download": "https://your-site.com/download",
+    "changelog": "Bug fixes anwd improvements"
+  },
 ]
